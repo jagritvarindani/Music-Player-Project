@@ -1,0 +1,2 @@
+# Music Player Project
+ There are three main fies in this Project :-  1. MusicPlayerHomePage.html - It consists of the html code for the home screen of the music player.  2. MusicPlayerSinglePlaylistScreen.html - It consits of the html code for the Single Playlist Screen which is linked to the first html page. By clicking on any of the artist's icon below the latest release section you can go to this page.  3. MusicPlayerStyle.css - It consists of the extrenal CSS stylesheet that is applied commonly to both the webpages.
