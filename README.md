@@ -1,21 +1,18 @@
+<h1>MUSIC PLAYER PROJECT</h1>
+
+***
+
 There are three main fies in this Project :-
-
 1. MusicPlayerHomePage.html - It consists of the html code for the home screen of the music player.
-
 2. MusicPlayerSinglePlaylistScreen.html - It consits of the html code for the Single Playlist Screen which is linked to the first html page. By clicking on any of the artist's icon below the latest release section you can go to this page.
-
 3. MusicPlayerStyle.css - It consists of the extrenal CSS stylesheet that is applied commonly to both the webpages.
 
 
 All the relevant images are contained in the Images folder.
 
 
-
-
 A) MusicPlayerHomePage.html :
-
 This has 4 main parts :
-
   1) Navigation bar - Which contains the logo, search bar etc.
   2) Main Section - This has furthur sections
         a) Home Screen Carousel
@@ -28,7 +25,6 @@ This has 4 main parts :
    4)Bottom Music Player
 
 B) MusicPlayerStyle.css :
-     
-     It has got the common navigation and music player sections from MusicPlayerHomePage.html apart from that it displays artist details and their songs in main section. In the aside section it shows the similar artists and recenty played songs.
+It has got the common navigation and music player sections from MusicPlayerHomePage.html apart from that it displays artist details and their songs in main section. In the aside section it shows the similar artists and recenty played songs.
 
 Proper responsiveness have been added to both the pages.
